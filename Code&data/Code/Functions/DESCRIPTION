@@ -1,0 +1,13 @@
+Package: Functions
+Type: Package
+Title: Function Collections for Master Thesis
+Version: 0.1.0
+Author: Shu Wang <wangshu1112@gmail.com>
+Maintainer: Shu Wang <wangshu1112@gmail.com>
+Description: This package collects functions that are used in my master thesis.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr
+Depends: vars
+RoxygenNote: 7.1.1
