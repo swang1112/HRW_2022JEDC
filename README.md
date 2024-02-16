@@ -1,5 +1,6 @@
 # Replication Files for: "Proxy SVAR identification of monetary policy shocks - Monte Carlo evidence and insights for the US", Journal of Economic Dynamics and Control, 139, 104457
-by Herwartz, H., H. Rohloff, and S. Wang [Link](https://doi.org/10.1016/j.jedc.2022.104457)
+by Herwartz, H., H. Rohloff, and S. Wang 
+[Paper Link](https://doi.org/10.1016/j.jedc.2022.104457)
 
 ### Code:
 
